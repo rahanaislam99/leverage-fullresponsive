@@ -1,0 +1,365 @@
+/* //// home page//// */
+
+/* // X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+	/* footer */
+	/* contact section */
+}
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+section {
+    padding: 60px 0px;
+}
+h1 {
+    font-size: 4rem;
+}
+.card-body {
+    padding: 1rem 2rem;
+}
+
+.top-nav{
+    padding: 14px 0px;
+}
+.top-nav ul li{
+    padding: 0px 1px;
+}
+.top-nav ul li a {
+    font-size: 14px;
+}
+.carousel-inner {
+    height: 464px;
+}
+.pricing-top span {
+    padding: 0px 78px;
+}
+.pricing-item button {
+    width: 71%;
+}
+.contact-pera li {
+    font-size: 14px;
+    margin-left: 24px;
+}
+input.form-control {
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    background: transparent;
+}
+.pricing-area .leverage-heading-2 h2::before {
+    top: -103px;
+    height: 77px;
+}
+/* footer */
+.widget-4 a {
+font-size: 14px;
+}
+}
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+		/* default */
+body p{
+    font-size: 0.9rem;
+}
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 2rem;
+}
+h4{
+    font-size: 1.2rem;
+}
+h2{
+    font-size: 1.5rem;}
+section {
+    padding: 35px 0px;
+}
+.btn-primary {
+    padding: 12px 13px;
+}
+/* banner slider */
+.carousel-item img {
+    margin-left: 96px;
+    margin-top: 28px;
+}
+.slider-content {
+    margin: 25px 0px;
+}
+/* about us */
+.about-us-item .card-body {
+    margin-left: 26px;
+}
+.about-us-1 {
+    padding: 72px 0px;
+}
+.leverage-heading-1{
+	margin-top: 30px;
+}
+.service-items h4 {
+    font-size: 18px;
+}
+.service-items p {
+    width: 95%;
+    margin: auto;
+}
+.service .card {
+    margin-bottom: 25px;
+}
+.last-s-item::after {
+    bottom: 13px;
+}
+section.pricing-area {
+    margin-top: 1px;
+}
+.pricing-area .leverage-heading-2 h2::before {
+    top: -63px;
+    height: 56px;
+}
+.pricing-item .card {
+    margin-bottom: 25px;
+}
+.pricing-top span{
+    font-size: 33px;
+    padding: 0px 40px;
+}
+.pricing-list ul li span {
+    font-size: 12px;
+}
+.pricing-item button{
+    width: 100%;
+    font-size: 14px;
+}
+.leverage-heading-2.w-50 {
+    width: 80% !important;
+}
+.contact-pera li {
+    font-size: 11px !important;
+    margin-left: 11px;
+}
+input.form-control {
+    padding: 5px 10px;
+    margin-bottom: 13px;
+}
+.contact-pera.mb-5 {
+    margin-top: 55px;
+}
+.contact .btn-primary {
+    padding: 7px 28px;
+}
+.team-section .carousel-inner {
+    height: 361px;
+}
+.carousel-indicators li{
+	background: transparent;
+}
+.carousel-indicators li.active{
+	background: transparent;
+}
+.contact-pera li {
+    font-size: 13px;
+}
+.about-us-img {
+    margin-top: 25px;
+}
+	/* footer */
+	.footer-text p {
+    font-size: 12px;
+}
+.footer-top {
+    padding: 40px 0px;
+}
+/* contact section */
+}
+
+
+
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+	body p{
+    font-size: 0.9rem;
+}
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 2rem;
+}
+h4{
+    font-size: 1.2rem;
+}
+h2{
+    font-size: 1.5rem;}
+section {
+    padding: 35px 0px;
+}
+.btn-primary {
+    padding: 12px 13px;
+}
+/* banner slider */
+.carousel-inner {
+    height: 420px;
+}
+.banner-slider img{
+	width: 0px;
+}
+/* about us */
+.about-us-item .card {
+    text-align: center;
+    width: 74%;
+    margin:auto;
+}
+.about-us-1 {
+    padding: 72px 0px;
+}
+.leverage-heading-1{
+	margin-top: 30px;
+}
+.service-items p {
+    width: 100%;
+    margin: auto;
+}
+.service .card {
+    margin-bottom: 25px;
+}
+.skill p {
+    width: 86%;
+}
+.last-s-item::after {
+    bottom: 13px;
+}
+section.pricing-area {
+    margin-top: 50px;
+}
+.leverage-heading-2.w-50 {
+    width: 100% !important;
+}
+.pricing-area .leverage-heading-2 h2::before {
+    top: -112px;
+    height: 56px;
+}
+.pricing-item .card {
+    margin-bottom: 25px;
+}
+.team-section .carousel-inner {
+    height: 361px;
+}
+.carousel-indicators li{
+	background: transparent;
+}
+.carousel-indicators li.active{
+	background: transparent;
+}
+.contact-pera li {
+    font-size: 13px;
+}
+.about-us-img {
+    margin-top: 25px;
+}
+	/* footer */
+	.footer-top {
+    padding: 40px 0px;
+    text-align: center;
+}
+.contact-menu a.btn.btn-primary {
+    margin-top: 0px;
+}
+.footer-text-right {
+    float: left; 
+}
+.footer-bottom {
+    padding: 10px 0px;
+}
+}
+
+
+
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	/* default */
+	body p{
+    font-size: 0.9rem;
+}
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 2rem;
+}
+h4{
+    font-size: 1.2rem;
+}
+h2{
+    font-size: 1.5rem;}
+section {
+    padding: 35px 0px;
+}
+.btn-primary {
+    padding: 12px 13px;
+}
+/* banner slider */
+.carousel-inner {
+    height: 420px;
+}
+.banner-slider img{
+	width: 0px;
+}
+/* about us */
+.about-us-item .card {
+    text-align: center;
+    width: 74%;
+    margin:auto;
+}
+.about-us-1 {
+    padding: 72px 0px;
+}
+.leverage-heading-1{
+	margin-top: 30px;
+}
+.service-items p {
+    width: 75%;
+    margin: auto;
+}
+.service .card {
+    margin-bottom: 25px;
+}
+.last-s-item::after {
+    bottom: 13px;
+}
+section.pricing-area {
+    margin-top: 50px;
+}
+.pricing-area .leverage-heading-2 h2::before {
+    top: -112px;
+    height: 56px;
+}
+.pricing-item .card {
+    margin-bottom: 25px;
+}
+.team-section .carousel-inner {
+    height: 361px;
+}
+.carousel-indicators li{
+	background: transparent;
+}
+.carousel-indicators li.active{
+	background: transparent;
+}
+.contact-pera li {
+    font-size: 13px;
+}
+.about-us-img {
+    margin-top: 25px;
+}
+}
+
+
+
+
+
+
+/* // XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width */
